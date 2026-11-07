@@ -43,11 +43,15 @@ The project aims to make business data easier to understand by transforming raw 
 ## 🖥️ Dashboard Preview
 
 <p align="center">
-  <img src="assets/dashboard-preview.png" alt="AWM Business Performance Dashboard preview" width="95%" />
+  <img src="dashboard-preview.png" alt="AWM Business Performance Dashboard - Overview" width="95%" />
 </p>
 
 <p align="center">
-  <i>Replace this image with an actual screenshot of your dashboard.</i>
+  <img src="dashboard-preview1.png" alt="AWM Business Performance Dashboard - Detailed Analysis" width="95%" />
+</p>
+
+<p align="center">
+  <em>Interactive business performance analysis and dashboard visualizations.</em>
 </p>
 
 ## 📊 Business Metrics & Analysis
